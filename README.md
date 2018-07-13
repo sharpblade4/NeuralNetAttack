@@ -6,5 +6,5 @@ This code was used in the following (hebrew) article at Digital-Whisper magazine
 
 
 ### Notes:       
-* Make sure to download the network's weights ("bvlc_alexnet.npy" file) files.
+* Make sure to download the network's weights ("bvlc_alexnet.npy" file).
 * AlexNet code is based on: http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/  (the weights are also there).
