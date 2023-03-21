@@ -1,4 +1,8 @@
-# NeuralNetAttack
+# NeuralNetAttack - 2023
+An updated version of the regularized FGSM attack, this time aimed at ResNet50. This code was used in a session on adversarial attacks. No external-weights dependencies needed, and the code is much simpler now (using tensorflow v2).
+
+
+# NeuralNetAttack - 2018
 Attacking AlexNet (a convolutional neural network for object identification) to make it identify an image of a truck as a toaster with very high confidence and minimal observable-change of the image.
 
 
